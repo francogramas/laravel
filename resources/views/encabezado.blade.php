@@ -1,0 +1,1 @@
+encabezado.blade.php
